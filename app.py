@@ -500,4 +500,4 @@ def leaderboard(contest_id):
 
 # --- Run the App ---
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True) 
